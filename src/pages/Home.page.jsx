@@ -6,7 +6,7 @@ import { Clock, Play, Smartphone, Bell, Map, Users, Shield, Zap, MapPin, Star, C
 import 'swiper/css'
 import 'swiper/css/pagination'
 import 'swiper/css/effect-coverflow'
-import { Button, Card } from "../components/UI.Component";
+import { Button, Card } from "../components/UI.component";
 
 
 function Hero() {
