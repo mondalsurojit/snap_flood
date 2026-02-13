@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { AlertCircle, Menu, X, Chrome, Apple } from "lucide-react";
-import { Button } from "./UI.Component";
+import { Button } from "./UI.component";
 
 // 🔥 IMPORT FIREBASE STUFF
 import { signInWithPopup } from "firebase/auth";
